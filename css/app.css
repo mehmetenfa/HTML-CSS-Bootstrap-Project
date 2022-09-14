@@ -74,6 +74,10 @@ section#students img {
 
 /*! ----------- 5- COURSES SECTION ----------- */
 
+section#courses .nav button {
+  background-color: var(--red);
+}
+
 /*! ----------- 6- CONTACT SECTION ------------ */
 
 /** -------------- UP-BUTTON ------------------ */
